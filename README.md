@@ -1,6 +1,6 @@
 # JavaScript Basics, DOM Manipulation, and jQuery
 
-## 1. JavaScript Basics
+## [1. JavaScript Basics](1.%20JavaScript%20Basics/README.md)
 
 ### 1.1 Introduction to JavaScript
    - Brief overview of JavaScript and its role in web development.
@@ -14,7 +14,7 @@
 ### 1.4 Functions
    - Function declaration and expression, parameters, and return values.
 
-## 2. DOM Manipulation
+## [2. DOM Manipulation](2.%20DOM%20Manipulation/README.md)
 
 ### 2.1 Introduction to the DOM
    - Understanding the Document Object Model (DOM) and how JavaScript interacts with HTML.
@@ -28,7 +28,7 @@
 ### 2.4 Advanced DOM Manipulation
    - Modifying elements, creating new ones, and using more advanced techniques.
 
-## 3. jQuery
+## [3. jQuery](3.%20jQuery/README.md)
 
 ### 3.1 Introduction to jQuery
    - Overview and benefits of using jQuery.
