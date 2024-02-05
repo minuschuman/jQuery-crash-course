@@ -2,10 +2,10 @@
 
 ## [1. JavaScript Basics](1.%20JavaScript%20Basics/README.md)
 
-### 1.1 Introduction to JavaScript
+### [1.1 Introduction to JavaScript](1.%20JavaScript%20Basics/README.md#1-introduction-to-javascript)
    - Brief overview of JavaScript and its role in web development.
 
-### 1.2 Variables and Data Types
+### [1.2 Variables and Data Types](1.%20JavaScript%20Basics/README.md#2-variables-and-data-types)
    - Declaring variables, understanding data types (string, number, boolean).
 
 ### 1.3 Control Flow
